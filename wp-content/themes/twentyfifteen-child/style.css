@@ -1,0 +1,18 @@
+/*
+Theme Name: Child Theme;
+Theme URI: http://localhost:8888/
+Description: Test child theme of 2015;
+Author: McCartney Bohn;
+Authour URI: http://mccartneybohn.com
+Template: twentyfifteen
+Version: 0.1
+*/
+@import url("../twentyfifteen/style.css");
+
+body{
+  background: red;
+}
+
+.sidebar{
+  background: green;
+}
